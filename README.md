@@ -42,3 +42,10 @@ I am Fikri Miftah!
 ### I'm Currently Learning 💻
 
 <img src="https://img.shields.io/badge/Node JS-026e00?style=flat-square"></img>&nbsp;
+
+
+### Portfolio Repositories 📂
+
+<a href="https://github.com/stars/vkr16/lists/portfolios/">
+<img src="https://img.shields.io/static/v1?label=vkr16&message=Portfolios&color=ff4444&show-icon=true&style=for-the-badge&logo=github&logoColor=fff&labelColor=181717"></img>
+</a>&nbsp;

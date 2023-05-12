@@ -20,7 +20,7 @@
 
 I am Fikri Miftah!
 
-- _Currently_ : Web Developer Freelancer 👨‍💻
+- _Currently_ : PHP Web Application Developer / Back-End Developer at PT Satria Antaran Prima Tbk 👨‍💻
 - _Previously_ : Computer Engineering Student at Brawijaya University 🎓
 
 ### Languages 🔥
@@ -36,7 +36,7 @@ I am Fikri Miftah!
 
 <img src="https://img.shields.io/badge/Bootstrap 4+-5e3b7f?style=flat-square"></img>&nbsp;
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square"></img>&nbsp;
-<img src="https://img.shields.io/badge/CodeIgniter 4+-f04e37?style=flat-square"></img>&nbsp;
+<img src="https://img.shields.io/badge/CodeIgniter 3 & 4-f04e37?style=flat-square"></img>&nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square"></img>&nbsp;
 
 ### I'm Currently Learning 💻

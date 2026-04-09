@@ -39,7 +39,7 @@ I am Fikri Miftah!
 <img src="https://img.shields.io/badge/CodeIgniter 3 & 4-f04e37?style=flat-square"></img>&nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square"></img>&nbsp;
 
-### I'm Currently Learning 💻
+### Other Tech 💻
 
 <img src="https://img.shields.io/badge/Node JS-026e00?style=flat-square"></img>&nbsp;
 <img src="https://img.shields.io/badge/Docker-086dd7?style=flat-square"></img>&nbsp;
